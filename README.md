@@ -5,6 +5,10 @@ BudgetWise CLI is a command-line personal finance tracker developed in Python. I
 
 This project demonstrates intermediate Python programming concepts including object-oriented programming, file handling, data structures, and data processing.
 
+Project Presentation Video Watch the code defense and video presentation on YouTube: https://youtu.be/BqBdywkDVEU?feature=shared
+
+Student Information Student Name: Dominic S. Froyalde Jr. 
+Section: BSCS-1A 
 ---
 
 ## Features
